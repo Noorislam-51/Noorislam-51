@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Noor Islam</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" width="400px" src"https://media.licdn.com/dms/image/D4D12AQFyRtdVa6IvtA/article-cover_image-shrink_600_2000/0/1701509537596?e=2147483647&v=beta&t=uHPhKiu750wtkLExBhz4tHW4HwtUOmPhAcSUDCnorNY">
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noorislam-51&label=Profile%20views&color=0e75b6&style=flat" alt="noorislam-51" /> </p>
